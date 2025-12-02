@@ -1,3 +1,5 @@
+
+
 # Coffee Project javascript
 
 Congratulations! You have landed your first development job! You have inherited
